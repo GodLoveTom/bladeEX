@@ -12,7 +12,9 @@ namespace UnityTemplateProjects
             public float x;
             public float y;
             public float z;
-            public float ccc;//123
+            public float ccc;//123 9999
+            
+
 
             public void SetFromTransform(Transform t)
             {
